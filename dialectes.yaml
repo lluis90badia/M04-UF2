@@ -1,0 +1,151 @@
+---
+  dialects:
+    -
+      dialect:
+        -
+          name_dialect: "Valencià"
+          region: "Comunitat Valenciana, Regió de Múrcia"
+          origin_dialect: Llatí
+          zone: Septentrional
+          identify_language: Català
+          population: "Més de dos milions d'habitants"
+          information1: "A banda que té diferències, té similituds amb el català i el mallorquí (les 'e' i 'o' obertes i tancades, l'àccent obert en la 'a', etc.)"
+          information2: "Pel que fa a les diferències, un exemple seria en l'ortografia, especialment en la gramàtica (en valencià seria 'jo mire' i en català 'jo miro')"
+          name_photo: "Les Falles de València"
+          photo: "bulma/img/falles_valencia.jpg"
+          famous_people: "Ausiàs March (poeta, 1400-1459)"
+          email: "dolorsplanes59@gmail.com"
+
+      dialect:
+        -
+          name_dialect: Bable
+          region: "Principat d'Asturies"
+          origin_dialect: Llatí
+          zone: Septentrional
+          identify_language: Castellà
+          population: "Menys d'un milió d'hatibants"
+          information1: "Comparteix trets similars amb el gallec"
+          information2: "Té la concordància de neutre com a característica pròpia (ex. 'la ropa vieyo tirólo' - la roba vella que he tirat"
+          name_photo: "El corri-corri asturià"
+          photo: "bulma/img/corri_corri_asturiano.jpg"
+          famous_people: "Juan Agustín Ceán Bermúdez (pintor, 1749-1829)"
+          email: "marc.badia@hotmail.com"
+
+      dialect:
+        -
+          name_dialect: Fabla
+          region: Aragó
+          origin_dialect: Llatí
+          zone: Septentrional
+          identify_language: Castellà
+          population: "Menys d'un milió d'hatibants"
+          information1: "A diferència del castellà, es manté la 'f' inicial llatina ('farina' en comptes de 'harina')"
+          information2: "En lloc de la 'ch' castellana, hi escriuen 'it' ('feito' - 'hecho')"
+          name_photo: "La jota aragonesa" 
+          photo: "bulma/img/jota_aragonesa.jpg"
+          famous_people: "Francisco de Goya (pintor, 1746-1828)"
+          email: "stan90.13eful@gmail.com"
+
+      dialect:
+        -
+          name_dialect: Aranès 
+          region: "Vall d'Aran, Catalunya"
+          origin_dialect: Gascó
+          zone: Septentrional
+          identify_language: Català
+          population: "Menys d'un milió d'hatibants"
+          information1: "Comparteix trets similars amb el català, però pertany al gascó (occità)"
+          information2: "Els plurals de noms acabats en '-a' canvien a '-es': era pèria (la pedra) - es pèires (les pedres)"
+          name_photo: "Pyrenmuseu (Salardú)"
+          photo: "bulma/img/pyrenmuseu_salardu.jpg"
+          famous_people: "Juli Soler i Santaló (excursionista, 1865-1914)"
+          email: "joanbadia84@hotmail.com"
+
+      dialect:
+        -
+          name_dialect: Rifeny
+          region: "Ciutat Autònoma de Melilla"
+          origin_dialect: "Amazic (Berber)"
+          zone: Meridional
+          identify_language: Àrab
+          population: "Més de dos milions d'hatibants"
+          information1: "Té una conjugació verbal complexa"
+          information2: "Varia en les diferents zones del Rif"
+          name_photo: "Rap a la rasudir"
+          photo: "bulma/img/rap_rasudir.jpg"
+          famous_people: "Pedro de Estopiñán y Virués (militar, 1470-1505)"
+          email: "oriolbresoli@gmail.com"
+
+      dialect:
+        -
+          name_dialect: Lleonés
+          region: "Provincies de Lleó i Zamora"
+          origin_dialect: Llatí
+          zone: Septentrional
+          identify_language: Castellà
+          population: "Menys d'un milió d'hatibants"
+          information1: "El lleonès s'escriu amb l'alfabet llatí, però manca d'una norma escrita oficialment regulada"
+          name_photo: "Pendons de Lleó"
+          photo: "bulma/img/pendones_leon.jpg"
+          famous_people: "Ramón Menéndez Pidal (filòleg i historiador, 1869-1968)"
+          email: "jr_espinet@gmail.com"
+          
+      dialect:
+        -
+          name_dialect: "Català nord-occidental"
+          region: "Oest de Catalunya, Franja de Ponent, Andorra i part de València"
+          origin_dialect: Llatí
+          zone: Septentrional
+          identify_language: Català
+          population: "Entre un milió i dos milions d'habitants"
+          information1: "Hi ha nombroses paraules que s'associen més al castellà que al català degut a la proximitat amb l'Aragó"
+          information2: "La 'e' tancada és manté tancada, mentre que en el català oriental és oberta en general"
+          name_photo: "L'Aplec del Caragol"
+          photo: "bulma/img/aplec_caragol.jpg"
+          famous_people: "Josep Lladonosa (historiador, 1907-1990)"
+          email: "marti.fargues@gmail.com"
+
+      dialect:
+        -
+          name_dialect: Balear
+          region: "Illes Balears"
+          origin_dialect: Llatí
+          zone: Septentrional
+          identify_language: Català 
+          population: "Entre un milió i dos milions d'habitants"
+          information1: "Pertany al dialecte del català oriental"
+          information2: "És famós per l'ús dels articles salats (es, sa, ses, s')"
+          name_photo: "Ensaimada mallorquina" 
+          photo: "bulma/img/ensaimada.jpg"
+          famous_people: "Maria Mayol i Colom (política i escriptora, 1883-1959)"
+          email: "oriol90estallo@gmail.com"
+
+      dialect:
+        -
+          name_dialect: "Dàrija (àrab marroquí)" 
+          region: "Ciutat autònoma de Ceuta"
+          origin_dialect: Àrab
+          zone: Meridional
+          identify_language: Àrab
+          population: "Més de dos milions d'hatibants"
+          information1: "S'anomena també 'àrab-ceutí'"
+          information2: "La seva gramàtica és diferent a la de l'àrab clàssic"
+          name_photo: "Pollastre moruno"
+          photo: "bulma/img/pollo_moruno.jpg"
+          famous_people: "Elena Álvarez Laverón (escultora, 1938)"
+          email: "armand.lladanosa@gmail.com"
+
+      dialect:
+        -
+          name_dialect: Canari
+          region: "Illes Canàries"
+          origin_dialect: Llatí
+          zone: Meridional
+          identify_language: Castellà 
+          population: "Menys d'un milió d'habitants"
+          information1: "El dialecte més similar al canari, donat el vincle històric entre ambdues zones, és el dialecte caribeny i la costa del Mar del Carib"
+          information2: "Lèxicament, es troba ampliament influenciat per l'idioma portuguès"
+          name_photo: "Carnaval de Sta. Cruz de Tenerife"
+          photo: "bulma/img/carnaval_tenerife.jpg"
+          famous_people: "Agustín Espinosa (poeta, 1897-1939)"
+          email: "eloi_teixido@gmail.com"
